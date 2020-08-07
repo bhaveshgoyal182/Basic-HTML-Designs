@@ -1,2 +1,2 @@
 # Basic-HTML-Designs
-Basic HTML Webpages Designing with Simplest Methods
+Basic examples of Webpages Designing with Simplest Methods using HTML and CSS.
